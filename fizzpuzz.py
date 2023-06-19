@@ -9,4 +9,3 @@ for fizzbuzz in range(51):
         print("buzz")
         continue
     print(fizzbuzz)
-	
